@@ -4,7 +4,7 @@ namespace ClassLibrary
 {
     public class MyClass
     {
-        public static string nombre = "Brenda";
+        public static string nombre = "Kevin";
 
         public static void MostrarNombre()
         {

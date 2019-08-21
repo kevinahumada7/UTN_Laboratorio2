@@ -105,3 +105,5 @@ C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 02\bin\Debug\ClassL
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 02\bin\Debug\ClassLibrary.pdb
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 02\obj\Debug\Clase 02.exe.config
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 02\obj\Debug\Clase 02.csproj.CopyComplete
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 02\bin\Debug\Clase 02.Entidades.dll
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 02\bin\Debug\Clase 02.Entidades.pdb

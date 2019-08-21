@@ -14,7 +14,7 @@ namespace Clase_02
         //Miembreo no static (no se define) -> "De Instancia"
 
         //[Modificador] Tipo NombreDelMetodo(Parametro si es requerido)
-        public static string nombre="Kevin";
+        public static string nombre;
         public static int edad;
 
         public static void MostrarEdad()
@@ -25,9 +25,10 @@ namespace Clase_02
 
         public static string RetornarNombre()
         {
+            string nombre;
             Console.Write("Ingresar nombre: ");
-            MyClass.nombre = Console.ReadLine();
-            return MyClass.nombre;
+            nombre = Console.ReadLine();
+            return nombre;
         }
 
         public static bool CompararNombre(string nombreParam)
