@@ -1,0 +1,7 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Ejercicio 00 - Hola Mundo\bin\Debug\Ejercicio 00 - Hola Mundo.exe.config
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Ejercicio 00 - Hola Mundo\bin\Debug\Ejercicio 00 - Hola Mundo.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Ejercicio 00 - Hola Mundo\bin\Debug\Ejercicio 00 - Hola Mundo.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Ejercicio 00 - Hola Mundo\obj\Debug\Ejercicio 00 - Hola Mundo.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Ejercicio 00 - Hola Mundo\obj\Debug\Ejercicio 00 - Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Ejercicio 00 - Hola Mundo\obj\Debug\Ejercicio 00 - Hola Mundo.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Ejercicio 00 - Hola Mundo\obj\Debug\Ejercicio 00 - Hola Mundo.pdb
