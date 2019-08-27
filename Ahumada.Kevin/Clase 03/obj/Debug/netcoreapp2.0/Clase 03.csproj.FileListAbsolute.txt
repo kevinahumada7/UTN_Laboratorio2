@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\bin\Debug\netcoreapp2.0\Clase 03.deps.json
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\bin\Debug\netcoreapp2.0\Clase 03.runtimeconfig.json
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\bin\Debug\netcoreapp2.0\Clase 03.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\bin\Debug\netcoreapp2.0\Clase 03.dll
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\bin\Debug\netcoreapp2.0\Clase 03.pdb
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\obj\Debug\netcoreapp2.0\Clase 03.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\obj\Debug\netcoreapp2.0\Clase 03.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\obj\Debug\netcoreapp2.0\Clase 03.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\obj\Debug\netcoreapp2.0\Clase 03.AssemblyInfo.cs
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\obj\Debug\netcoreapp2.0\Clase 03.dll
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 03\obj\Debug\netcoreapp2.0\Clase 03.pdb
