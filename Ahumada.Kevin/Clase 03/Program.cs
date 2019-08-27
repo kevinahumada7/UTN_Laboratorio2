@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Clase_03
 {
@@ -6,25 +10,28 @@ namespace Clase_03
     {
         static void Main(string[] args)
         {
-            Persona usuario1 = new Persona();
-            Persona usuario2 = new Persona();
-            Persona usuario3 = new Persona();
+            Usuario programador1 = new Usuario(41560125);
+            programador1.nombre = "Kevin";
+            programador1.apellido = "Ahumada";
 
-            usuario1.nombre = "Kevin";
-            usuario1.apellido = "Ahumada";
-            usuario1.dni = 43021356;
+            Usuario programador2 = new Usuario(42080715);
+            programador2.nombre = "Gabriel";
+            programador2.apellido = "Maldonado";
 
-            usuario2.nombre = "Luchettinni";
-            usuario2.apellido = "Aranda";
-            usuario2.dni = 42020715;
+            Usuario admin = new Usuario(42625103);
+            admin.nombre = "Luchetti";
+            admin.apellido = "Aranda";
 
+            Usuario tester = new Usuario(40426852);
+            tester.nombre = "Brenda";
+            tester.apellido = "Frias";
 
-            Console.WriteLine(usuario1.Mostrar());
-            Console.WriteLine(usuario2.Mostrar());
-            Console.WriteLine(usuario3.Mostrar());
+            programador1.Mostrar();
+            admin.Mostrar();
+            programador2.Mostrar();
+            tester.Mostrar();
 
             Console.ReadLine();
-
         }
     }
 }

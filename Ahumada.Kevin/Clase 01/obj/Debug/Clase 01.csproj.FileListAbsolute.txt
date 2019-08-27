@@ -1,0 +1,7 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 01\bin\Debug\Clase 01.exe.config
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 01\bin\Debug\Clase 01.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 01\bin\Debug\Clase 01.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 01\obj\Debug\Clase 01.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 01\obj\Debug\Clase 01.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 01\obj\Debug\Clase 01.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 01\obj\Debug\Clase 01.pdb

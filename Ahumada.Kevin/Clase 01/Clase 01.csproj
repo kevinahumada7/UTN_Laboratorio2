@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F267325-66E2-4FD5-AB1D-D7054216FBFC}</ProjectGuid>
+    <ProjectGuid>{0F7EB330-1CEC-44D4-9BE2-7DFDF66FAC8B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Clase_02</RootNamespace>
-    <AssemblyName>Clase 02</AssemblyName>
+    <RootNamespace>Clase_01</RootNamespace>
+    <AssemblyName>Clase 01</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sello.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
