@@ -14,7 +14,7 @@ namespace Clase_03
             programador1.nombre = "Kevin";
             programador1.apellido = "Ahumada";
 
-            Usuario programador2 = new Usuario(42080715);
+            Usuario programador2 = new Usuario(42020715);
             programador2.nombre = "Gabriel";
             programador2.apellido = "Maldonado";
 
