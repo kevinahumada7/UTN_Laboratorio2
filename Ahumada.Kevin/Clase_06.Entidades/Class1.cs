@@ -21,7 +21,7 @@ namespace Clase_06.Entidades
 
         private string Mostrar()
         {
-            return "Color: " + this.color + " matriz: " + this.marca + " cantidad: " + this.cantidad;
+            return "Color: " + this.color + " Marca: " + this.marca + " Cantidad: " + this.cantidad;
         }
 
         public static implicit operator string(Tempera tempera)
@@ -95,7 +95,10 @@ namespace Clase_06.Entidades
 
             for (int i = 0; i < this.cantidadMaximaDeColores; i++)
             {
-                retorno = string.Concat(retorno, this.colores[i] + " \n");
+                if(!Object.Equals(this.colores[i],null))
+                {
+                    retorno += this.colores[i]+"\n";
+                }
             }
             return retorno;
         }
@@ -124,6 +127,14 @@ namespace Clase_06.Entidades
             }
 
             return paletaA;
+        }
+
+
+        //INDEXADOR
+        public Tempera this[int index]
+        {
+            get { return this.colores[index]; }
+            set { this.colores[index] = value; }
         }
     }
 }

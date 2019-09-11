@@ -29,19 +29,19 @@ namespace Clase_06
             this.cbx_Color.SelectedItem = ConsoleColor.Magenta;
         }
 
-        private Tempera temp; //propfull 'tab'
+        //propfull 'tab'
 
         public Tempera MiTempera
         {
-            get { return this.tempera; }
+            get { return tempera; }
            // set { temp = value; }
         }
 
 
         private void btn_Aceptar_Click(object sender, EventArgs e)
         {
-            this.tempera = new Tempera((ConsoleColor)this.cbx_Color.SelectedItem,txtb_Marca.Text,int.Parse(txtb_Cantidad.Text));
-            MessageBox.Show(temp);
+            this.tempera = new Tempera((ConsoleColor)this.cbx_Color.SelectedItem, txtb_Marca.Text, int.Parse(txtb_Cantidad.Text));
+            MessageBox.Show(tempera);
             this.DialogResult = DialogResult.OK;
         }
 

@@ -97,8 +97,6 @@ C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\System
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\System.Xml.XmlSerializer.dll
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\System.Xml.XPath.dll
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\System.Xml.XPath.XDocument.dll
-C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\Clase_06.Entidades.dll
-C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\Clase_06.Entidades.pdb
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase 07.csprojAssemblyReference.cache
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase 06.exe.config
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase_06.Properties.Resources.resources
@@ -109,3 +107,5 @@ C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase 
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase 06.pdb
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase_06.FormInicio.resources
 C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase_06.FormTemperas.resources
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\Clase 06.Entidades.dll
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\Clase 06.Entidades.pdb

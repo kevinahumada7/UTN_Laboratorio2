@@ -13,6 +13,8 @@ namespace Clase_06
 {
     public partial class FormInicio : Form
     {
+        Paleta paleta = 5;
+
         public FormInicio()
         {
             InitializeComponent();
@@ -22,23 +24,23 @@ namespace Clase_06
             
         }
 
+        private void paletaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //paletaToolStripMenuItem.Enabled = false;
+            gbx_Paleta.Visible = true;
+        }
+
         private void temperaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FormTemperas formTemp = new FormTemperas();
             //formTemp.MdiParent = this;
             formTemp.ShowDialog();
 
-            if(formTemp.DialogResult == DialogResult.OK)
+            if (formTemp.DialogResult == DialogResult.OK)
             {
-                
+                paleta += formTemp.MiTempera;
+                listBox_Paleta.Items.Add((string)formTemp.MiTempera);
             }
-            
-        }
-
-        private void paletaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            paletaToolStripMenuItem.Enabled = false;
-            gbx_Paleta.Visible = true;
         }
     }
 }
