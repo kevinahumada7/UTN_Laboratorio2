@@ -27,9 +27,11 @@ namespace Clase_03
             tester.apellido = "Frias";
 
             programador1.Mostrar();
-            admin.Mostrar();
             programador2.Mostrar();
+            admin.Mostrar();
             tester.Mostrar();
+
+            Console.WriteLine("\nLa cantidad de usuarios cargados es: "+Usuario.cantUsuarios);
 
             Console.ReadLine();
         }
