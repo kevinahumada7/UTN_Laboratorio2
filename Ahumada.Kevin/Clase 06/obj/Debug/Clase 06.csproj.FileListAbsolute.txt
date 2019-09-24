@@ -1,0 +1,6 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\Clase 06.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\bin\Debug\Clase 06.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase 06.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase 06.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase 06.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 06\obj\Debug\Clase 06.pdb

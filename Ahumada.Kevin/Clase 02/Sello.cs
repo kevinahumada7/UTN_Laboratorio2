@@ -28,6 +28,7 @@ namespace Clase_02
         {
             Console.ForegroundColor = color;
             Console.WriteLine(mensaje);
+            Console.ReadLine();
             Console.Clear();
             Console.ResetColor();
         }

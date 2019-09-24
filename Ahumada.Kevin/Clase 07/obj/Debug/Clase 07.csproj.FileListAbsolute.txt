@@ -1,0 +1,14 @@
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\bin\Debug\Clase 07.exe.config
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\bin\Debug\Clase 07.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\bin\Debug\Clase 07.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase 07.csprojAssemblyReference.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase_07.Properties.Resources.resources
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase 07.csproj.GenerateResource.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase 07.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase 07.exe
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase 07.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\bin\Debug\Clase 06.dll
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\bin\Debug\Clase 06.pdb
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase_07.FormPaleta.resources
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase_07.FormTempera.resources
+C:\Users\Kevin Ahumada\Documentos\GitHub\UTN_Laboratorio2\Ahumada.Kevin\Clase 07\obj\Debug\Clase 07.csproj.CopyComplete
