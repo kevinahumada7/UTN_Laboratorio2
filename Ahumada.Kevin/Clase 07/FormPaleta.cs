@@ -46,7 +46,7 @@ namespace Clase_07
         }
         private void Btn_Agregar_Click(object sender, EventArgs e)
         {
-            if(this.lst_Paleta.SelectedIndex >= 0)
+            if(this.lst_Paleta.SelectedItem != null)
             {
                 FormTempera frmTemp = new FormTempera(paleta[lst_Paleta.SelectedIndex]);
                 frmTemp.ShowDialog();
