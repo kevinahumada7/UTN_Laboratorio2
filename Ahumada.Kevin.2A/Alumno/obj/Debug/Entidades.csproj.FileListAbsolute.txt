@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin.2A\Alumno\bin\Debug\Alumno.dll
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin.2A\Alumno\bin\Debug\Alumno.pdb
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin.2A\Alumno\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin.2A\Alumno\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin.2A\Alumno\obj\Debug\Alumno.dll
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin.2A\Alumno\obj\Debug\Alumno.pdb
