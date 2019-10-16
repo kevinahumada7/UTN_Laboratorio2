@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 15\obj\Debug\Clase 15.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 15\bin\Debug\Clase 15.exe.config
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 15\bin\Debug\Clase 15.exe
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 15\bin\Debug\Clase 15.pdb
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 15\obj\Debug\Clase 15.exe
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 15\obj\Debug\Clase 15.pdb

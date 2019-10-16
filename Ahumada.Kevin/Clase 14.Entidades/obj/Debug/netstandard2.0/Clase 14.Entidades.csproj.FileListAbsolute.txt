@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\bin\Debug\netstandard2.0\Clase 14.Entidades.deps.json
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\bin\Debug\netstandard2.0\Clase 14.Entidades.dll
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\bin\Debug\netstandard2.0\Clase 14.Entidades.pdb
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\obj\Debug\netstandard2.0\Clase 14.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\obj\Debug\netstandard2.0\Clase 14.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\obj\Debug\netstandard2.0\Clase 14.Entidades.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\obj\Debug\netstandard2.0\Clase 14.Entidades.AssemblyInfo.cs
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\obj\Debug\netstandard2.0\Clase 14.Entidades.dll
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 14.Entidades\obj\Debug\netstandard2.0\Clase 14.Entidades.pdb

@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 13\bin\Debug\Clase 13.exe.config
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 13\bin\Debug\Clase 13.exe
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 13\bin\Debug\Clase 13.pdb
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 13\obj\Debug\Clase 13.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 13\obj\Debug\Clase 13.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 13\obj\Debug\Clase 13.exe
+C:\Users\alumno\Desktop\UTN_Laboratorio2\Ahumada.Kevin\Clase 13\obj\Debug\Clase 13.pdb

@@ -19,7 +19,7 @@ namespace Clase_12
 
         public static bool operator +(DepositoDeAutos d, Auto a)
         {
-            if(d._lista.Count < d._cantidadMaxima)
+            if(d._lista.Count <= d._cantidadMaxima)
             {
                 d._lista.Add(a);
                 return true;
