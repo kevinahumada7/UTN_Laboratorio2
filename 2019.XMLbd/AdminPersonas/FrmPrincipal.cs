@@ -19,7 +19,7 @@ namespace AdminPersonas
     public partial class FrmPrincipal : Form
     {
         private List<Persona> lista;
-        SqlConnection sqlConnection;
+        DataTable tablaPersonas;
 
         public FrmPrincipal()
         {
@@ -28,8 +28,24 @@ namespace AdminPersonas
             this.IsMdiContainer = true;
             this.WindowState = FormWindowState.Maximized;
             this.lista = new List<Persona>();
-            this.sqlConnection = new SqlConnection(Properties.Settings.Default.conexion);
+            this.tablaPersonas = new DataTable("Personas");
+        }
 
+        private void  CargarDataTable()
+        {
+            SqlConnection sqlConnection = new SqlConnection(Properties.Settings.Default.conexion);
+            sqlConnection.Open();
+
+            SqlCommand sqlCommand = new SqlCommand();
+            sqlCommand.Connection = sqlConnection;
+            sqlCommand.CommandType = CommandType.Text;
+            sqlCommand.CommandText = "SELECT * FROM Personas";
+            SqlDataReader dataReader = sqlCommand.ExecuteReader();
+
+            tablaPersonas.Load(dataReader);
+
+            dataReader.Close();
+            sqlConnection.Close();
         }
 
         private void cargarArchivoToolStripMenuItem_Click(object sender, EventArgs e)
@@ -93,21 +109,23 @@ namespace AdminPersonas
         {
             try
             {
+                SqlConnection sqlConnection = new SqlConnection(Properties.Settings.Default.conexion);
                 sqlConnection.Open();
 
                 SqlCommand sqlCommand = new SqlCommand();
                 sqlCommand.Connection = sqlConnection;
                 sqlCommand.CommandType = CommandType.Text;
-                sqlCommand.CommandText= "SELECT TOP 1000[id],[nombre],[apellido],[edad]FROM[personas_bd].[dbo].[personas]";
+                sqlCommand.CommandText= "SELECT TOP 1000[id],[nombre],[apellido],[edad]FROM[personas_bd].[dbo].[personas]"; //"SELECT * FROM[personas_bd].[dbo].[personas]"
                 SqlDataReader dataReader = sqlCommand.ExecuteReader();
 
-                do
-                {
-                    dataReader.Read();
-                    //object o = dataReader[0].ToString();
-                    //object b = dataReader["nombre"].ToString();
+                this.lista.Clear();
 
-                } while (dataReader.Read() != null);
+                while(dataReader.Read() != false)
+                {
+                    Persona buffer = new Persona((string)dataReader["nombre"], (string)dataReader["apellido"], (int)dataReader["edad"]);
+                    this.lista.Add(buffer);
+                    MessageBox.Show(buffer.ToString());
+                }
 
                 MessageBox.Show("Base de Datos conectada con exito.");
                 dataReader.Close();
@@ -117,6 +135,11 @@ namespace AdminPersonas
             {
                 MessageBox.Show(exception.Message);
             }
+        }
+
+        private void traerTodosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
